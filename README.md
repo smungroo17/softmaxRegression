@@ -1,4 +1,4 @@
-notebooks contain our model comparisons on two datasets and various plots
+Notebooks contain our model comparisons on two datasets and various plots
 
 softmax.py contains the code for Multi-Class Logistic Regression
 
